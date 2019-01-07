@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\Classes\F15\OS\Mandelbrot_Set\Mandelbrot_Set\bin\Debug\Mandelbrot_Set.exe.config
+C:\Users\Alex\Desktop\Classes\F15\OS\Mandelbrot_Set\Mandelbrot_Set\bin\Debug\Mandelbrot_Set.exe
+C:\Users\Alex\Desktop\Classes\F15\OS\Mandelbrot_Set\Mandelbrot_Set\bin\Debug\Mandelbrot_Set.pdb
+C:\Users\Alex\Desktop\Classes\F15\OS\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Classes\F15\OS\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\MainWindow.g.cs
+C:\Users\Alex\Desktop\Classes\F15\OS\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\App.g.cs
+C:\Users\Alex\Desktop\Classes\F15\OS\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set_MarkupCompile.cache
+C:\Users\Alex\Desktop\Classes\F15\OS\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set_MarkupCompile.lref
+C:\Users\Alex\Desktop\Classes\F15\OS\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\MainWindow.baml
+C:\Users\Alex\Desktop\Classes\F15\OS\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.g.resources
+C:\Users\Alex\Desktop\Classes\F15\OS\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.Properties.Resources.resources
+C:\Users\Alex\Desktop\Classes\F15\OS\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\Classes\F15\OS\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.exe
+C:\Users\Alex\Desktop\Classes\F15\OS\Mandelbrot_Set\Mandelbrot_Set\obj\Debug\Mandelbrot_Set.pdb
